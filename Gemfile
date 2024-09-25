@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'nokogiri', '~> 1.15.0'
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
